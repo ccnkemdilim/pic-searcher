@@ -1,3 +1,13 @@
+##About the app
+pic-searcher makes search to unsplash API and gets a list of images related to the search term entered by the user.
+For example a user enters cars as search, a list of car images will be rendered on the screen. 
+
+App Challenges
+* getting search term from user
+* use search term to make a call to outside API and fetch data
+* render fetched images as a list
+
+          
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
