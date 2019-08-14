@@ -1,4 +1,4 @@
-##About the app
+## About the app
 pic-searcher makes search to unsplash API and gets a list of images related to the search term entered by the user.
 For example a user enters cars as search, a list of car images will be rendered on the screen. 
 
